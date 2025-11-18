@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVE9NWGhoRFVKRTRWeitJNE9jYzZ0RTB4QVd5Q1pmQUwrRXJLWWNNcUVVZ3IxVFI3WmJQdnJIeUJtbmJBTFNZYTBhUHNiV1NDZ3FhZlAyZkpkeENoeEZWbUgrKzVVVEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNTA2MTQyCWZpbGU6c2Nvb3AtdG9vbGtpdF8xLjAuM194NjRfZW4tVVMubXNpCnNQUEFuZkRGT2JLdk9YSGpuZm1FNVphb1N2WkQrZkExYlk0UEcyVlRFeHhZeSt0ZHFBcGpkNGduTDA1NlAwRitDRnpiZXVJcVlkbmV2RnRZd1JteEFnPT0K",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVE9NWGhoRFVKRStNUzFtYlB1dHpKS1hEU3R5Sm9ucnVGMnBTd0xrV3d1a3NmT2FDQ0FkUFdNemFFMU1BYWd0Z0NEZCtSTC9abWpyMlUrYUJ2c0thREFLcnhrYk9lV2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNTA2NTI1CWZpbGU6c2Nvb3AtdG9vbGtpdF8xLjAuM194NjRfZW4tVVMubXNpCmJORmRMeXFmMUkzSWlIdUR5OGNMNEVMSXVvTUZkZkUxdE92NjhGeHR2UGhlR3dxTTRiMmhrWm1XSXU3S2JPNGpLNEhLU0RWS0R5V21mMHVhaDR6ekR3PT0K",
                                              "url":  "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v1.0.3/scoop-toolkit_1.0.3_x64_en-US.msi.zip"
                                          }
                   },
-    "pub_date":  "2025-11-18T17:49:02Z",
+    "pub_date":  "2025-11-18T17:55:25Z",
     "version":  "1.0.3",
     "notes":  "Test auto-updater functionality"
 }

@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdUcwTndCSFRLSHFvK2FNcDQ5bjB4cDNRM0dodWpXYXN0NjRUZXFIdUlNRnMvUmRoWkREbU9USnlNVThDeU8wTEVqNnFoRVJDT2xpWDFBVkpYVFFtcWJJYm8zMk9kS3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNTIwMTUzCWZpbGU6c2Nvb3AtdG9vbGtpdF8xLjAuM194NjRfZW4tVVMubXNpCmlQckt2MWh1YXU2eDlPQ1FDdjFma08vdVNuT3lFOFg3RjVSb0pDRWFGUk5TRUN4bFMveTY1QlMwendvenBhaC9pYWZUUktnZkU5Vkk0WGtaTjc2UUNRPT0K",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdUcwTndCSFRLSHFwWmVvbWZQbmd6T3JkQjNDdWxycklvbmJTQTRoZWhaalBVODNEMG1kejUvQnBCTThNZ3Y0VHdHVTJuTk41bGZtT05MV0x1L3hLRUlSMjZzWmd2MXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNTIxNzg4CWZpbGU6c2Nvb3AtdG9vbGtpdF8xLjAuM194NjRfZW4tVVMubXNpCnVlRFBLV1kzcW5qZ3dtNHlYelVoRWxuQkRZQVpvZDhoMHJiakt2UVFRa3Mxd3Nwc2s0eGIzdmhacm4vVjlQK2pJRU1XdkNKVlY0NFVsV2U2YmxhQ0J3PT0K",
                                              "url":  "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v1.0.3/scoop-toolkit_1.0.3_x64_en-US.msi.zip"
                                          }
                   },
-    "pub_date":  "2025-11-18T21:42:33Z",
+    "pub_date":  "2025-11-18T22:09:48Z",
     "version":  "1.0.3",
-    "notes":  "Use correct Tauri env vars"
+    "notes":  "Fix public key mismatch"
 }

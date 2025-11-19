@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVHlSbHY0NmVSaWwrWTBVTTBwZHNRUlg5WnZuQ1BGT2JaZ0FoQnluNWVSMkNPb0VvMGhYRzNodWQzbXB1NjYrVHFxdkxEZ1FseWU2dzNTaUV6Sk5odFNIeld0Z3N0SVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNTEyNjE2CWZpbGU6c2Nvb3AtdG9vbGtpdF8xLjAuM194NjRfZW4tVVMubXNpClRQbytFUTNzMTBoR01KVVdOVndLZUo0ZUpsckpJb1ZvdDhEdFltMFliSVJMUlVQZGpOL0pveXFIYWZtcWRiU2tMcVhaK0tqejV0dTFSalRReWJBTEJRPT0K",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVHlSbHY0NmVSaW5KNG50TG95YkNJbjk5dFFZbDIwVURvQ2ljemR4T0FXb2Zmc3JIdG1pNnFCY3BsKzlWbGQ0WFFlREF3TTF4K1ZITTBwYi9VVkMyRG1CS2hlTWQwL0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNTE0MTQ1CWZpbGU6c2Nvb3AtdG9vbGtpdF8xLjAuM194NjRfZW4tVVMubXNpCkREOXlKT3ZPWENwS3hoMFRSVVBtWGplaTg3QkhMNExHb0h4c3g4WnA0ZTNjS0l5ZlRUdko1d1lWcXk5d1ZwRndUcTQxcUdwZFArRC9GK3BLRkYvSEJ3PT0K",
                                              "url":  "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v1.0.3/scoop-toolkit_1.0.3_x64_en-US.msi.zip"
                                          }
                   },
-    "pub_date":  "2025-11-18T19:36:56Z",
+    "pub_date":  "2025-11-18T20:02:25Z",
     "version":  "1.0.3",
-    "notes":  "Rebuild with correct key"
+    "notes":  "Rebuild with correct signing key"
 }

@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdUcwTndCSFRLSHUyUUtPd2MvVGE0ZEo4dE1tT3NCb1A5SFppZGpKOXBQUlhDOUpEeExPOVdtMmhMZ3l2R2Y1clg0ODkwVU9xYjIyL3lWRkNNY0ZNWkVCbk5ULzdSMndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNTI0MDc0CWZpbGU6c2Nvb3AtdG9vbGtpdF8xLjAuM194NjRfZW4tVVMubXNpCmRZcE9PWkRqcFNsQkpZb3loTklsSEQxWjNQcXJNcXJRK2VSYTZrNllQc004dmpwU2dDMGdCUjVhRG5WMVFmVDBrOUFpM0E3T0prTDBrdG8vTFNzdURBPT0K",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdUcwTndCSFRLSG5FbU41cjF0YytuMVBOK0ZSajdwb3dGUS9DeThGMVhZRU5STllpcThHY0FzdHJtaVRtaE5tazdEb0x6MFVTenEvY2V0YmF2V09lblBSZE9VUElZT2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNTI0NDc5CWZpbGU6c2Nvb3AtdG9vbGtpdF8xLjAuM194NjRfZW4tVVMubXNpCkhnc1NmSlk1YlQ5aVl2MU9kd2FsV2NtZHRNSUtMUkluNXJINWZmU3pGYmFOMDBlTVNSN3M5eDRVSEQwck5xMlkxN2k5OWJUWkdFdWhXYzRIQ3JPNkJ3PT0K",
                                              "url":  "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v1.0.3/scoop-toolkit_1.0.3_x64_en-US.msi.zip"
                                          }
                   },
-    "pub_date":  "2025-11-18T22:47:54Z",
+    "pub_date":  "2025-11-18T22:54:39Z",
     "version":  "1.0.3",
-    "notes":  "Remove double-signing issue"
+    "notes":  "Use correct env vars (key content)"
 }

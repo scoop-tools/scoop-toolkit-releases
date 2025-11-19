@@ -1,0 +1,11 @@
+{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVHlSbHY0NmVSaWwrWTBVTTBwZHNRUlg5WnZuQ1BGT2JaZ0FoQnluNWVSMkNPb0VvMGhYRzNodWQzbXB1NjYrVHFxdkxEZ1FseWU2dzNTaUV6Sk5odFNIeld0Z3N0SVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNTEyNjE2CWZpbGU6c2Nvb3AtdG9vbGtpdF8xLjAuM194NjRfZW4tVVMubXNpClRQbytFUTNzMTBoR01KVVdOVndLZUo0ZUpsckpJb1ZvdDhEdFltMFliSVJMUlVQZGpOL0pveXFIYWZtcWRiU2tMcVhaK0tqejV0dTFSalRReWJBTEJRPT0K",
+                                             "url":  "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v1.0.3/scoop-toolkit_1.0.3_x64_en-US.msi.zip"
+                                         }
+                  },
+    "pub_date":  "2025-11-18T19:36:56Z",
+    "version":  "1.0.3",
+    "notes":  "Rebuild with correct key"
+}

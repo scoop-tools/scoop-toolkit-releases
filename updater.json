@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVE9NWGhoRFVKRTdHelZTVitialJYOXFyamphdm5CbWlnbXREMTlweTArUEdJWTlLQmg4Myt5aUxNeGYxcVp0c3YzNWpBaUczNVFFZ2FzWEUvWVdBTWNlWUNsWTEybnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNTEwNzAzCWZpbGU6c2Nvb3AtdG9vbGtpdF8xLjAuMl94NjRfZW4tVVMubXNpCk5FbzBFbWwyYnRocW5WRzQvdnJqRGU2MlhVQ1BQanp3dkRqdm9vOW1RSmVnZTAwN3ZTRng4NExPU0ZKSjdvdEgyME5FTGI0aXl4V2Yzb0NqTWF6dERRPT0K",
-                                             "url":  "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v1.0.2/scoop-toolkit_1.0.2_x64_en-US.msi.zip"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVE9NWGhoRFVKRXhWWU44SEhvVXlIaVRMQmZxRjQyeGMyb3VrRkQ1TFdyNHo2TkppSFRUZlMzVEVZa1NyZjdIZnRNcHhIT1NpK014WENPM2xveC9LQkVRMktxRzREVWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNTEwNjEyCWZpbGU6c2Nvb3AtdG9vbGtpdF8xLjAuM194NjRfZW4tVVMubXNpCkw3OEMzUmpZYjBrUlpNYUFxWW1VR0V0UlA5UEFCOWJGdWxIM1BLNEJVaEJ3T1NWKzBoZzBkU0NLNUZsWUU1V3M3aEcrTElJZFNJank1MzFhUi9YYkNBPT0K",
+                                             "url":  "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v1.0.3/scoop-toolkit_1.0.3_x64_en-US.msi.zip"
                                          }
                   },
-    "pub_date":  "2025-11-18T19:05:03Z",
-    "version":  "1.0.2",
-    "notes":  "Include sig file in ZIP"
+    "pub_date":  "2025-11-18T19:13:00Z",
+    "version":  "1.0.3",
+    "notes":  "Fix missing signature field"
 }

@@ -1,11 +1,10 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVE9NWGhoRFVKRTZCK0N5SkpkMXN5TVVuUy81UnluNGtGeGZCQmhKZXg5aUs5MDNUbjlkc3p5S1FqcCtwdTNlK0Q0WnM5ekdaclVuYmJYZTlhNDZxTlNvRGI4STMxSUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNTA4NTQ0CWZpbGU6c2Nvb3AtdG9vbGtpdF8xLjAuM194NjRfZW4tVVMubXNpCnlJdmRpN1dPRkNzWnVkTUtLc3hmU2RlZUsxOUhMbElhdU9OOXdqOWRvSm13bkZ3MWhJWmJVdzZEZ2hNNXRHcWphRWJCVFVDNlRUQXdKQ043K2JkWkJ3PT0K",
                                              "url":  "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v1.0.3/scoop-toolkit_1.0.3_x64_en-US.msi.zip"
                                          }
                   },
-    "pub_date":  "2025-11-18T18:29:04Z",
+    "pub_date":  "2025-11-18T18:42:48Z",
     "version":  "1.0.3",
-    "notes":  "Include signature file in ZIP"
+    "notes":  "Use sig file from ZIP for verification"
 }

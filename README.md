@@ -1,7 +1,7 @@
 # Scoop Toolkit (BETA)
 
 
-## Download latest versin of Scoop Toolkit
+## Download latest version of Scoop Toolkit
 
 [Windows](https://github.com/scoop-tools/scoop-toolkit-releases/releases/latest/download/scoop-toolkit_1.1.0_x64-setup.exe)
 

@@ -16,7 +16,7 @@ It's because this isn't an official signed app, run this command in terminal to 
 (only needs to be run once)
 
 ```bash
-xattr -cr /Applications/scoop-toolkit.app
+xattr -cr '/Applications/Scoop Toolkit.app'
 ```
 
 **Screenshots**

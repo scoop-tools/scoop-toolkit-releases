@@ -5,11 +5,11 @@ Sku Manager for Target/Pokemon is Live! More features coming soon!
 
 ## Download latest version of Scoop Toolkit
 
-[Windows](https://github.com/scoop-tools/scoop-toolkit-releases/releases/latest/download/Scoop.Toolkit_1.5.3_x64-setup.exe)
+[Windows](https://github.com/scoop-tools/scoop-toolkit-releases/releases/latest/download/Scoop.Toolkit_2.1.1_x64-setup.exe)
 
-[Mac-M-Series](https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v1.5.2/Scoop.Toolkit_1.5.3_aarch64.dmg)
+[Mac-M-Series](https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v2.1.1/Scoop.Toolkit_2.1.1_aarch64.dmg)
 
-[Mac-Intel](https://github.com/scoop-tools/scoop-toolkit-releases/releases/latest/download/Scoop.Toolkit_1.5.3_x64.dmg)
+[Mac-Intel](https://github.com/scoop-tools/scoop-toolkit-releases/releases/latest/download/Scoop.Toolkit_2.1.1_x64.dmg)
 
 **If you get "is damaged and can't be opened" on Mac:**
 It's because this isn't an official signed app, run this command in terminal to remove restriction

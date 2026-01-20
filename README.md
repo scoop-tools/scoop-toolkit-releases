@@ -7,7 +7,7 @@ Sku Manager for Target/Pokemon is Live! More features coming soon!
 
 [Windows](https://github.com/scoop-tools/scoop-toolkit-releases/releases/latest/download/Scoop.Toolkit_2.4.0_x64-setup.exe)
 
-[Mac-M-Series](https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v2.4.0-skipnotarize/Scoop.Toolkit_2.4.0_aarch64.dmg)
+[Mac-M-Series](https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v2.4.0/Scoop.Toolkit_2.4.0_aarch64.dmg)
 
 [Mac-Intel](https://github.com/scoop-tools/scoop-toolkit-releases/releases/latest/download/Scoop.Toolkit_2.4.0_x64.dmg)
 

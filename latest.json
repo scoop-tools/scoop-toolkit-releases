@@ -1,35 +1,35 @@
 {
-  "version": "2.5.1",
+  "version": "2.5.2",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2026-01-30T13:03:50.192Z",
+  "pub_date": "2026-01-30T18:52:18.453Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURjREUmZoc1ZnNWRjZVdiL0tzeUFjamtqSG5WTXJlUU1qcStyUzdVQXdQWFpiNy9xS2ZZUmV0VFAyZUQ5WXpRZ0M0NHJRUUxzYWxxdWtkVDZWeDRSYVJUdlIrZ1FKdFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Nzc3MjAwCWZpbGU6U2Nvb3AgVG9vbGtpdC5hcHAudGFyLmd6ClZWWlprR2sxaWhjblJ3TWh4eEU5L2dXa0VZWFIremFuRVQzWGNxaU1haFpLN2IzcEZKaC9IK1pqRWZZOTVsWEs4RU5HMW9jbHdnMCt2Q1FpVjN0WUFnPT0K",
-      "url": "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v2.5.1/Scoop.Toolkit_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURjREUmZoc1ZnNWJDOGdlTitxTzNwUnJUazJydmZ1Q0V4VXlKbFpzWXA5cFBuYkZyL2lXRG9rVGxFQnNhVTJTTDFHUkZuOFJQUzlSa3hLcEgyZndMYXNsZ0RGUy81V3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Nzk4MjE3CWZpbGU6U2Nvb3AgVG9vbGtpdC5hcHAudGFyLmd6CnVMQ3pNcjN0aEg1eGlDWXlnZnR0em1iazlBdkc4QXRhWU5xSFRNY3BpL0xWQXpleTVNYjhBZHhVNyt0YzNDdmNhUXJLbzNROFRaTWM1YSs5ZmRFRUJRPT0K",
+      "url": "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v2.5.2/Scoop.Toolkit_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURjREUmZoc1ZnNWRjZVdiL0tzeUFjamtqSG5WTXJlUU1qcStyUzdVQXdQWFpiNy9xS2ZZUmV0VFAyZUQ5WXpRZ0M0NHJRUUxzYWxxdWtkVDZWeDRSYVJUdlIrZ1FKdFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Nzc3MjAwCWZpbGU6U2Nvb3AgVG9vbGtpdC5hcHAudGFyLmd6ClZWWlprR2sxaWhjblJ3TWh4eEU5L2dXa0VZWFIremFuRVQzWGNxaU1haFpLN2IzcEZKaC9IK1pqRWZZOTVsWEs4RU5HMW9jbHdnMCt2Q1FpVjN0WUFnPT0K",
-      "url": "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v2.5.1/Scoop.Toolkit_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURjREUmZoc1ZnNWJDOGdlTitxTzNwUnJUazJydmZ1Q0V4VXlKbFpzWXA5cFBuYkZyL2lXRG9rVGxFQnNhVTJTTDFHUkZuOFJQUzlSa3hLcEgyZndMYXNsZ0RGUy81V3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Nzk4MjE3CWZpbGU6U2Nvb3AgVG9vbGtpdC5hcHAudGFyLmd6CnVMQ3pNcjN0aEg1eGlDWXlnZnR0em1iazlBdkc4QXRhWU5xSFRNY3BpL0xWQXpleTVNYjhBZHhVNyt0YzNDdmNhUXJLbzNROFRaTWM1YSs5ZmRFRUJRPT0K",
+      "url": "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v2.5.2/Scoop.Toolkit_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURjREUmZoc1ZnNWJjQWpSSUkyYU43bWMvYU1iOTJWSWVMZUR5d1JTaXYyUHZJb0c5elZySG4xZVpHanNGTmkzSGNtVFVBamhaMjk4Mkw4OE1tKzBRcXRlenFFeXNNK1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Nzc3ODQ5CWZpbGU6U2Nvb3AgVG9vbGtpdC5hcHAudGFyLmd6CjdwUWhleDdUZHJxSjFJaVJ5TlBzWHNjU2c3aUZrRTlrS2ZwRzVRNktMQXU4SEF2OGdKMzdmSXdMamJwQnpCTW1mZ1orUHlXNk1jMkdCcWs4VHVRWUNRPT0K",
-      "url": "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v2.5.1/Scoop.Toolkit_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURjREUmZoc1ZnNVRNM2FjYkJsN3FKQzZUZkd2N0lqbkwva09CSUpuUXNnU05FOXByampXMFAzQVR1N25SeG9sTGp1Rmc3dm0wYlVIYXh6Q2ZCVjVKci9jYzdkTmVCSlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Nzk4NzQwCWZpbGU6U2Nvb3AgVG9vbGtpdC5hcHAudGFyLmd6CmpDOHQyWGh6aVRuK1VJOXcrRHJUSjl4TVRTT3dweE1qeWxGUmVGaVBGTUZnT2dPaWlSTzNkN1dhRzFNVWRZZ1FVcHdMOGF1N1p6UkJEVTBaaW1BZENBPT0K",
+      "url": "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v2.5.2/Scoop.Toolkit_x64.app.tar.gz"
     },
     "darwin-x86_64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURjREUmZoc1ZnNWJjQWpSSUkyYU43bWMvYU1iOTJWSWVMZUR5d1JTaXYyUHZJb0c5elZySG4xZVpHanNGTmkzSGNtVFVBamhaMjk4Mkw4OE1tKzBRcXRlenFFeXNNK1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Nzc3ODQ5CWZpbGU6U2Nvb3AgVG9vbGtpdC5hcHAudGFyLmd6CjdwUWhleDdUZHJxSjFJaVJ5TlBzWHNjU2c3aUZrRTlrS2ZwRzVRNktMQXU4SEF2OGdKMzdmSXdMamJwQnpCTW1mZ1orUHlXNk1jMkdCcWs4VHVRWUNRPT0K",
-      "url": "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v2.5.1/Scoop.Toolkit_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURjREUmZoc1ZnNVRNM2FjYkJsN3FKQzZUZkd2N0lqbkwva09CSUpuUXNnU05FOXByampXMFAzQVR1N25SeG9sTGp1Rmc3dm0wYlVIYXh6Q2ZCVjVKci9jYzdkTmVCSlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Nzk4NzQwCWZpbGU6U2Nvb3AgVG9vbGtpdC5hcHAudGFyLmd6CmpDOHQyWGh6aVRuK1VJOXcrRHJUSjl4TVRTT3dweE1qeWxGUmVGaVBGTUZnT2dPaWlSTzNkN1dhRzFNVWRZZ1FVcHdMOGF1N1p6UkJEVTBaaW1BZENBPT0K",
+      "url": "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v2.5.2/Scoop.Toolkit_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURjREUmZoc1ZnNWFva09wS21nZTBsN0x1aVRYUHdzODJTcUNQZGZ2OEVoQlBkS0Zpa1ZTa0lTckllZy9jMWYvUlBnQlV1MnRXRWJmaTRiUGlmMHBvaXZ3SjZuQ2NwN3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Nzc4MjI2CWZpbGU6U2Nvb3AgVG9vbGtpdF8yLjUuMV94NjRfZW4tVVMubXNpCmtHTlRVbkRUQ05VZ1VTZmt5VmpoR0x1QTV3cVVtOUZtYWdKMXJKVisybFAzSldEbFpnejc2c01WTzFqcHhTeEliU3J3enZLMXpsa1ZwZU16bE81b0JnPT0K",
-      "url": "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v2.5.1/Scoop.Toolkit_2.5.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURjREUmZoc1ZnNWZDTEY1V2RBZkJCK25zcTZCTW9DQjhjdlFvS1pVd1R0TENNRzhUOXdpajg2bGgyQmt0c2ozWnAwWWJnRDBiM0N1QzdKd0dVb0lxMTBnNytGS0cxQlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Nzk5MTM0CWZpbGU6U2Nvb3AgVG9vbGtpdF8yLjUuMl94NjRfZW4tVVMubXNpCmQ1amRYZ3pnNXUvOW1WZ0tBL2VkeUgyZFpyZ3dkR1lQRE42RVFKU2xFcHBvcVhJTE9QVTB1V0p2anVLZ0xsVzhBTlRQY0dYQ0hpMFoxT0dyTTRrQUJRPT0K",
+      "url": "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v2.5.2/Scoop.Toolkit_2.5.2_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURjREUmZoc1ZnNWFva09wS21nZTBsN0x1aVRYUHdzODJTcUNQZGZ2OEVoQlBkS0Zpa1ZTa0lTckllZy9jMWYvUlBnQlV1MnRXRWJmaTRiUGlmMHBvaXZ3SjZuQ2NwN3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Nzc4MjI2CWZpbGU6U2Nvb3AgVG9vbGtpdF8yLjUuMV94NjRfZW4tVVMubXNpCmtHTlRVbkRUQ05VZ1VTZmt5VmpoR0x1QTV3cVVtOUZtYWdKMXJKVisybFAzSldEbFpnejc2c01WTzFqcHhTeEliU3J3enZLMXpsa1ZwZU16bE81b0JnPT0K",
-      "url": "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v2.5.1/Scoop.Toolkit_2.5.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURjREUmZoc1ZnNWZDTEY1V2RBZkJCK25zcTZCTW9DQjhjdlFvS1pVd1R0TENNRzhUOXdpajg2bGgyQmt0c2ozWnAwWWJnRDBiM0N1QzdKd0dVb0lxMTBnNytGS0cxQlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Nzk5MTM0CWZpbGU6U2Nvb3AgVG9vbGtpdF8yLjUuMl94NjRfZW4tVVMubXNpCmQ1amRYZ3pnNXUvOW1WZ0tBL2VkeUgyZFpyZ3dkR1lQRE42RVFKU2xFcHBvcVhJTE9QVTB1V0p2anVLZ0xsVzhBTlRQY0dYQ0hpMFoxT0dyTTRrQUJRPT0K",
+      "url": "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v2.5.2/Scoop.Toolkit_2.5.2_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURjREUmZoc1ZnNVVnTmhYOEtydkl5bnNaSjRMalNZbGc1czlPVXVBSk12WHdFaDNUSXN1VTlOTklXZVRYOE82Um8zWXBzQ0FLc28ySTRaQm5nS0NRdmp2dWptOG1JVVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Nzc4MjI2CWZpbGU6U2Nvb3AgVG9vbGtpdF8yLjUuMV94NjQtc2V0dXAuZXhlClZYeE1VOE1ZM3NzTjZFZVVkVGEyTFJkVVdjby92Nk1aR251M0w4V1Fka0sxdjcyY1BLVXR2cmxUb1JXbnYwalk4ejdrb3JlR1plZjB1OU5ZWUhTUEJBPT0K",
-      "url": "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v2.5.1/Scoop.Toolkit_2.5.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURjREUmZoc1ZnNVRuck9PckFNRGNpNnlMN2ZXVDNYZFhnVWJ2YXlhWE8rcnkrVG5sKytUbkxvVUk0NXVzL1NraGNrUGFYT0F6Vmx5NE55aHdKbnozVTVPdldjaHJMTWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Nzk5MTM0CWZpbGU6U2Nvb3AgVG9vbGtpdF8yLjUuMl94NjQtc2V0dXAuZXhlClEvNVR2VVRNVVg3M2IweXZzSFFoVFVtdklDRm9sOXB0YzYxdWJEelBZY2t6T2hNWDAyVVZIbDdNWThZa25yQ1FXS3ZMT3BPaVBMcDJQOWVrdkhEaEF3PT0K",
+      "url": "https://github.com/scoop-tools/scoop-toolkit-releases/releases/download/v2.5.2/Scoop.Toolkit_2.5.2_x64-setup.exe"
     }
   }
 }

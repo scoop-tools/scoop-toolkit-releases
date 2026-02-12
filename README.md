@@ -1,6 +1,6 @@
-# Scoop Toolkit (BETA)
+# Scoop Toolkit
 
-Sku Manager for Target/Pokemon is Live! More features coming soon!
+Best Tools for the game
 
 
 ## Download latest version of Scoop Toolkit
